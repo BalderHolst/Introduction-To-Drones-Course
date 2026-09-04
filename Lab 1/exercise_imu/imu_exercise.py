@@ -8,8 +8,8 @@
 
 ## Uncomment the file to read ##
 #fileName = 'imu_razor_data_static.txt'
-fileName = 'imu_razor_data_pitch_55deg.txt'
-#fileName = 'imu_razor_data_roll_65deg.txt'
+#fileName = 'imu_razor_data_pitch_55deg.txt'
+fileName = 'imu_razor_data_roll_65deg.txt'
 #fileName = 'imu_razor_data_yaw_90deg.txt'
 
 ## IMU type
@@ -22,17 +22,15 @@ plotData = []
 
 ## Initialize your variables here ##
 myValue = 0.0
-
-
-
-
-
+pitch_filt = 0.0
+roll_filt = 0.0
 
 ######################################################
 
 # import libraries
 from math import pi, sqrt, atan2
 import matplotlib.pyplot as plt
+import numpy as np
 
 # open the imu data file
 f = open (fileName, "r")
@@ -90,12 +88,15 @@ for line in f:
 
 	## Insert your code here ##
 	
-		
+	pitch = atan2(acc_y, (sqrt(acc_x**2 + acc_z**2)))
+	roll = atan2(-acc_x, acc_z)
 
-	myValue = pitch # relevant for the first exercise, then change this.
+	# low-pass filter
+	pitch_filt = 0.1 * pitch + 0.9 * pitch_filt
+	roll_filt = 0.1 * roll + 0.9 * roll_filt
 
-	# in order to show a plot use this function to append your value to a list:
-	plotData.append (myValue*180.0/pi)
+	myValue = [roll, roll_filt] # relevant for first exercise then change this
+	plotData.append(myValue)
 
 	######################################################
 
@@ -104,8 +105,15 @@ f.close()
 
 # show the plot
 if showPlot == True:
-	plt.plot(plotData)
-	plt.savefig('imu_exercise_plot.png')
+	data = np.array(plotData) * 180/pi
+	time = np.linspace(0, len(data)/100, len(data))
+    
+	plt.plot(time, data[:, 0], label = "Roll")
+	plt.plot(time, data[:, 1], label = "Roll Filtered")
+	plt.legend()
+	plt.xlabel("Seconds")
+	plt.ylabel("Degress")
+	plt.savefig('imu_exercise_plot_roll_filtered.png')
 	plt.show()
 
 

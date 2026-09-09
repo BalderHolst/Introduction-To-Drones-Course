@@ -7,9 +7,9 @@
 ##### Insert initialize code below ###################
 
 ## Uncomment the file to read ##
-#fileName = 'imu_razor_data_static.txt'
+fileName = 'imu_razor_data_static.txt'
 #fileName = 'imu_razor_data_pitch_55deg.txt'
-fileName = 'imu_razor_data_roll_65deg.txt'
+#fileName = 'imu_razor_data_roll_65deg.txt'
 #fileName = 'imu_razor_data_yaw_90deg.txt'
 
 ## IMU type
@@ -37,6 +37,12 @@ f = open (fileName, "r")
 
 # initialize variables
 count = 0
+accum = 0
+SAMPLE_HZ = 100
+avg = 0
+AVG_SAMPLES = SAMPLE_HZ * 10
+
+
 
 # looping through file
 
@@ -94,8 +100,13 @@ for line in f:
 	# low-pass filter
 	pitch_filt = 0.1 * pitch + 0.9 * pitch_filt
 	roll_filt = 0.1 * roll + 0.9 * roll_filt
+ 
+	if count < AVG_SAMPLES:
+		avg += gyro_z/AVG_SAMPLES
+	else:
+		accum += (gyro_z - avg) * 1/SAMPLE_HZ
 
-	myValue = [roll, roll_filt] # relevant for first exercise then change this
+	myValue = [accum, gyro_z] # relevant for first exercise then change this
 	plotData.append(myValue)
 
 	######################################################
@@ -104,16 +115,18 @@ for line in f:
 f.close()
 
 # show the plot
+print(avg)
 if showPlot == True:
 	data = np.array(plotData) * 180/pi
 	time = np.linspace(0, len(data)/100, len(data))
-    
-	plt.plot(time, data[:, 0], label = "Roll")
-	plt.plot(time, data[:, 1], label = "Roll Filtered")
+	plt.plot(time, data[:, 0], label = "Yaw")
+	plt.plot(time, data[:, 1], label = "Yaw_dot", alpha = 0.2 )
+	plt.axhline(y=0, color="k", linestyle = "--", linewidth = 1)
+	plt.axvline(x=AVG_SAMPLES/SAMPLE_HZ, color="k", linestyle = "--", linewidth = 1)
 	plt.legend()
 	plt.xlabel("Seconds")
 	plt.ylabel("Degress")
-	plt.savefig('imu_exercise_plot_roll_filtered.png')
+	plt.savefig('3.3.3imu_exercise_plot_yaw_static_bias.png')
 	plt.show()
 
 

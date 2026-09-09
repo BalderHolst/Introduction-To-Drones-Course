@@ -38,6 +38,7 @@ show3DLiveViewInterval = 3
 # import libraries
 from math import pi, sqrt, atan2
 import matplotlib.pyplot as plt
+import os
 from pylab import ion
 if show3DLiveView:
     from imu_box3d import imu_visualize
@@ -51,15 +52,15 @@ bias_gyro_y = 0.0 # [rad/measurement]
 bias_gyro_z = 0.0 # [rad/measurement]
 
 # variances
-gyroVar =
-pitchVar =
+gyroVar = 1
+pitchVar = 1
 
 # Kalman filter start guess
 estAngle = -pi/4.0
-estVar =
+estVar = pi
 
 # Kalman filter housekeeping variables
-gyroVarAcc =
+gyroVarAcc = 0
 
 ######################################################
 
@@ -72,6 +73,8 @@ plotDataKalman = []
 gyro_x_rel = 0.0
 gyro_y_rel = 0.0
 gyro_z_rel = 0.0
+SAMPLE_HZ = 100
+T = 1 / SAMPLE_HZ
 
 if os.environ.get("XDG_SESSION_TYPE") == "wayland":
     print("Sorry, this demo requires an X11 session.")
@@ -155,26 +158,35 @@ else:
         ## Insert your code here ##
 
         # calculate pitch (x-axis) and roll (y-axis) angles
-        pitch =  
-        roll = 
-
+        pitch = atan2(acc_y, (sqrt(acc_x**2 + acc_z**2)))
+        roll = atan2(-acc_x, acc_z)
+        
         # integrate gyro velocities to releative angles
-        gyro_x_rel +=    
-        gyro_y_rel +=
-        gyro_z_rel +=
+        gyro_x_rel += gyro_x * T
+        gyro_y_rel += gyro_y * T
+        gyro_z_rel += gyro_z * T
 
         # Kalman prediction step (we have new data in each iteration)
 
-
+        predAngle = estAngle + gyro_y * T
+        gyroVarAcc += gyroVar
+        predVar = estVar + gyroVarAcc * T
+        estAngle = predAngle
+        estVar = predVar
 
 
         # Kalman correction step (we have new data in each iteration)
 
-
+        K = predVar / (predVar + pitchVar)
+        corrAngle = predAngle + K * (pitch - predAngle)
+        corrVar = predVar * (1 - K)
+        estAngle = corrAngle
+        estVar = corrVar
+        gyroVarAcc = 0
 
 
         # define which value to plot as the Kalman filter estimate
-        kalman_estimate = 
+        kalman_estimate = estAngle
 
 
         # define which value to plot as the absolute value (pitch/roll)

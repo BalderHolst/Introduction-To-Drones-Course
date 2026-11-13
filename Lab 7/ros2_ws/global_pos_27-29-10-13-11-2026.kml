@@ -1,0 +1,3628 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Global position track</name>
+    <Placemark>
+      <name>Track</name>
+      <LineString>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>10.43371610,55.37258200,0
+10.43374690,55.37270180,0
+10.43396600,55.37333070,0
+10.43396010,55.37412930,0
+10.43469260,55.37548100,0
+10.43484280,55.37677780,0
+10.43487030,55.37762390,0
+10.43479170,55.37784650,0
+10.43481160,55.37870060,0
+10.43479590,55.37887250,0
+10.43479590,55.37897290,0
+10.43472980,55.37911930,0
+10.43278280,55.38053600,0
+10.43243710,55.38064760,0
+10.43121380,55.38102160,0
+10.43077640,55.38104230,0
+10.42793300,55.38144220,0
+10.42119640,55.38302580,0
+10.41541120,55.38497700,0
+10.41194610,55.38669980,0
+10.40933420,55.38756460,0
+10.40641060,55.38806690,0
+10.40308540,55.38795950,0
+10.39487870,55.38874610,0
+10.39109040,55.38852620,0
+10.38416720,55.39124110,0
+10.37658190,55.39254790,0
+10.37597890,55.39266660,0
+10.37516230,55.39279930,0
+10.43084620,55.36781310,0
+10.43094080,55.36780960,0
+10.43113540,55.36781220,0
+10.43113530,55.36781140,0
+10.43114010,55.36780850,0
+10.43112740,55.36780360,0
+10.43111660,55.36779760,0
+10.43111680,55.36779660,0
+10.43111770,55.36779690,0
+10.43111880,55.36779680,0
+10.43111800,55.36779560,0
+10.43112180,55.36779760,0
+10.43112410,55.36779890,0
+10.43113680,55.36780220,0
+10.43113520,55.36780190,0
+10.43113390,55.36780250,0
+10.43113200,55.36779930,0
+10.43112640,55.36779810,0
+10.43112710,55.36779810,0
+10.43112730,55.36779860,0
+10.43112380,55.36780060,0
+10.43112100,55.36780190,0
+10.43112690,55.36780810,0
+10.43112700,55.36780800,0
+10.43112930,55.36781070,0
+10.43112910,55.36781050,0
+10.43112900,55.36781030,0
+10.43113760,55.36781260,0
+10.43128740,55.36782150,0
+10.43133960,55.36781170,0
+10.43136140,55.36780270,0
+10.43139900,55.36779420,0
+10.43139960,55.36779390,0
+10.43145250,55.36778650,0
+10.43152810,55.36777680,0
+10.43165970,55.36777570,0
+10.43178910,55.36776930,0
+10.43180850,55.36777140,0
+10.43189090,55.36777950,0
+10.43212200,55.36777560,0
+10.43220610,55.36778970,0
+10.43229400,55.36778640,0
+10.43243160,55.36777930,0
+10.43249060,55.36778770,0
+10.43251680,55.36779590,0
+10.43263190,55.36784560,0
+10.43268130,55.36785750,0
+10.43269730,55.36786070,0
+10.43273220,55.36786450,0
+10.43281940,55.36787350,0
+10.43292220,55.36788610,0
+10.43308860,55.36789320,0
+10.43330970,55.36789450,0
+10.43334110,55.36789420,0
+10.43335330,55.36789710,0
+10.43335810,55.36789600,0
+10.43337670,55.36784840,0
+10.43338080,55.36781100,0
+10.43340420,55.36774200,0
+10.43340860,55.36771420,0
+10.43340100,55.36763720,0
+10.43342880,55.36761190,0
+10.43344680,55.36757010,0
+10.43344490,55.36756570,0
+10.43343520,55.36749150,0
+10.43344890,55.36743030,0
+10.43344340,55.36738090,0
+10.43344510,55.36734510,0
+10.43344730,55.36733360,0
+10.43345020,55.36732250,0
+10.43344220,55.36730260,0
+10.43338410,55.36726190,0
+10.43332780,55.36723330,0
+10.43329690,55.36721550,0
+10.43317360,55.36714520,0
+10.43309380,55.36709110,0
+10.43302250,55.36708540,0
+10.43298930,55.36708450,0
+10.43294190,55.36707860,0
+10.43288400,55.36707850,0
+10.43282560,55.36707530,0
+10.43279700,55.36707220,0
+10.43274100,55.36706680,0
+10.43268990,55.36703920,0
+10.43267650,55.36701120,0
+10.43266860,55.36698620,0
+10.43265930,55.36692500,0
+10.43266110,55.36689840,0
+10.43266160,55.36688180,0
+10.43261110,55.36680960,0
+10.43260200,55.36680450,0
+10.43259550,55.36679930,0
+10.43258160,55.36678920,0
+10.43257350,55.36678470,0
+10.43256170,55.36678150,0
+10.43255150,55.36677680,0
+10.43253050,55.36676750,0
+10.43251970,55.36676340,0
+10.43250850,55.36676030,0
+10.43249530,55.36675770,0
+10.43248240,55.36675540,0
+10.43246980,55.36675400,0
+10.43245750,55.36675210,0
+10.43236080,55.36675180,0
+10.43233050,55.36675180,0
+10.43231520,55.36675100,0
+10.43225540,55.36674690,0
+10.43224080,55.36674560,0
+10.43222680,55.36674460,0
+10.43217950,55.36674090,0
+10.43213650,55.36673840,0
+10.43206770,55.36672760,0
+10.43201740,55.36671760,0
+10.43197000,55.36671220,0
+10.43194250,55.36670840,0
+10.43191190,55.36670540,0
+10.43188520,55.36670470,0
+10.43186010,55.36670290,0
+10.43181900,55.36669840,0
+10.43180390,55.36669690,0
+10.43176910,55.36669260,0
+10.43173520,55.36669160,0
+10.43170110,55.36669210,0
+10.43167060,55.36669080,0
+10.43164090,55.36669020,0
+10.43161020,55.36669130,0
+10.43152270,55.36667830,0
+10.43150070,55.36667120,0
+10.43141680,55.36666490,0
+10.43130380,55.36669120,0
+10.43122730,55.36670630,0
+10.43121400,55.36670750,0
+10.43115990,55.36671560,0
+10.43132090,55.36666660,0
+10.43164680,55.36670860,0
+10.43174110,55.36673520,0
+10.43169540,55.36674100,0
+10.43171470,55.36674020,0
+10.43184480,55.36676930,0
+10.43170150,55.36675450,0
+10.43122140,55.36670320,0
+10.43074610,55.36668440,0
+10.43072260,55.36668970,0
+10.43060960,55.36668970,0
+10.43055690,55.36672940,0
+10.43055720,55.36677790,0
+10.43053800,55.36680800,0
+10.43052940,55.36690900,0
+10.43046900,55.36701590,0
+10.43046380,55.36703350,0
+10.43045950,55.36704150,0
+10.43043840,55.36708560,0
+10.43040710,55.36715320,0
+10.43040520,55.36716000,0
+10.43039530,55.36720080,0
+10.43039340,55.36722580,0
+10.43040060,55.36725310,0
+10.43040860,55.36728260,0
+10.43040670,55.36733520,0
+10.43041130,55.36742560,0
+10.43039630,55.36744580,0
+10.43037110,55.36745840,0
+10.43038820,55.36751980,0
+10.43038770,55.36753300,0
+10.43036610,55.36758880,0
+10.43037900,55.36765040,0
+10.43058830,55.36772090,0
+10.43062180,55.36772660,0
+10.43068250,55.36772860,0
+10.43072630,55.36769590,0
+10.43074190,55.36768010,0
+10.43077260,55.36769860,0
+10.43078890,55.36771640,0
+10.43079030,55.36771830,0
+10.43078930,55.36768650,0
+10.43088020,55.36766560,0
+10.43096060,55.36770980,0
+10.43102270,55.36771710,0
+10.43116680,55.36782130,0
+10.43124100,55.36784950,0
+10.43129640,55.36780330,0
+10.43132180,55.36783230,0
+10.43134550,55.36794090,0
+10.43134530,55.36794050,0
+10.43134460,55.36794020,0
+10.43134510,55.36794480,0
+10.43134560,55.36795870,0
+10.43134620,55.36796540,0
+10.43134730,55.36801540,0
+10.43134930,55.36806250,0
+10.43134280,55.36815860,0
+10.43134970,55.36820540,0
+10.43133060,55.36828120,0
+10.43130280,55.36841960,0
+10.43129770,55.36843320,0
+10.43127640,55.36854660,0
+10.43126890,55.36866160,0
+10.43126820,55.36878810,0
+10.43129110,55.36880070,0
+10.43132330,55.36881000,0
+10.43133590,55.36881330,0
+10.43140110,55.36883450,0
+10.43142750,55.36883650,0
+10.43143950,55.36883810,0
+10.43146670,55.36885500,0
+10.43175980,55.36912230,0
+10.43179200,55.36918130,0
+10.43183300,55.36932350,0
+10.43197450,55.36932580,0
+10.43204540,55.36941290,0
+10.43201470,55.36951600,0
+10.43188040,55.36958580,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Point 1 (8.086 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>8.085695</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.493434</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43371610,55.37258200,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 2 (8.609 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>8.609011</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.468230</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43374690,55.37270180,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 3 (12.236 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>12.236195</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.474060</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43396600,55.37333070,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 4 (16.265 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>16.264892</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.678055</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43396010,55.37412930,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 5 (24.132 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>24.131650</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.084084</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43469260,55.37548100,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 6 (31.427 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>31.426925</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.473166</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43484280,55.37677780,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 7 (37.281 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>37.280948</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.018031</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43487030,55.37762390,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 8 (39.139 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>39.139472</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.967878</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43479170,55.37784650,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 9 (44.491 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>44.490915</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.066742</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43481160,55.37870060,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 10 (46.358 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>46.357652</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.111546</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43479590,55.37887250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 11 (47.156 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>47.156322</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.155417</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43479590,55.37897290,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 12 (47.564 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>47.564402</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.234340</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43472980,55.37911930,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 13 (56.138 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>56.137577</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.762819</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43278280,55.38053600,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 14 (56.339 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>56.338844</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.831262</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43243710,55.38064760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 15 (60.575 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>60.575102</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.908859</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43121380,55.38102160,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 16 (61.180 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>61.179908</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.903576</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43077640,55.38104230,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 17 (65.558 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>65.558276</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.643891</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.42793300,55.38144220,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 18 (76.283 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>76.282851</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>90.062261</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.42119640,55.38302580,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 19 (86.908 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>86.908380</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.178490</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.41541120,55.38497700,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 20 (92.420 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>92.420098</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.023045</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.41194610,55.38669980,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 21 (96.264 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>96.264491</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.344285</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.40933420,55.38756460,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 22 (100.293 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>100.293046</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.474518</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.40641060,55.38806690,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 23 (104.241 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>104.240796</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>89.766220</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.40308540,55.38795950,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 24 (114.049 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>114.048922</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>87.250865</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.39487870,55.38874610,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 25 (117.845 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>117.845107</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>86.628450</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.39109040,55.38852620,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 26 (125.438 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>125.438052</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>86.048348</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.38416720,55.39124110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 27 (133.560 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>133.560026</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>85.762151</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.37658190,55.39254790,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 28 (134.843 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>134.842815</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>85.730988</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.37597890,55.39266660,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 29 (135.021 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>135.020542</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>85.707158</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.37516230,55.39279930,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 30 (147.830 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>147.830112</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>67.740292</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43084620,55.36781310,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 31 (152.825 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>152.824781</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>65.898136</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43094080,55.36780960,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 32 (173.583 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>173.583468</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.396803</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43113540,55.36781220,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 33 (174.260 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>174.260215</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.331804</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43113530,55.36781140,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 34 (178.547 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>178.546909</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.877800</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43114010,55.36780850,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 35 (182.882 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>182.882342</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.754827</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112740,55.36780360,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 36 (187.283 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>187.283136</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.952853</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43111660,55.36779760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 37 (188.545 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>188.545458</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.953854</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43111680,55.36779660,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 38 (189.894 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>189.894362</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.962852</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43111770,55.36779690,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 39 (191.809 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>191.808540</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.006851</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43111880,55.36779680,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 40 (194.114 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>194.113589</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.226853</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43111800,55.36779560,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 41 (197.797 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>197.796520</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.709844</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112180,55.36779760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 42 (200.829 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>200.829300</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.983839</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112410,55.36779890,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 43 (204.446 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>204.446146</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>62.091813</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43113680,55.36780220,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 44 (214.802 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>214.801609</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.227816</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43113520,55.36780190,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 45 (222.328 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>222.328249</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.758818</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43113390,55.36780250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 46 (227.930 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>227.930224</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.940825</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43113200,55.36779930,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 47 (229.848 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>229.847656</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.854836</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112640,55.36779810,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 48 (231.325 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>231.324642</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.891835</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112710,55.36779810,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 49 (235.276 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>235.276117</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.074834</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112730,55.36779860,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 50 (239.389 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>239.389343</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.802837</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112380,55.36780060,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 51 (243.344 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>243.343614</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.892840</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112100,55.36780190,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 52 (251.424 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>251.423738</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.415823</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112690,55.36780810,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 53 (253.376 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>253.375854</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.467823</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112700,55.36780800,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 54 (259.324 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>259.323843</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.973815</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112930,55.36781070,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 55 (263.260 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>263.260377</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>62.244816</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112910,55.36781050,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 56 (268.319 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>268.318563</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>62.500816</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43112900,55.36781030,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 57 (269.644 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>269.644388</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>62.647799</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43113760,55.36781260,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 58 (276.546 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>276.545822</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>62.618534</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43128740,55.36782150,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 59 (280.586 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>280.585568</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>62.036457</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43133960,55.36781170,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 60 (281.336 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>281.335564</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.527432</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43136140,55.36780270,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 61 (286.581 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>286.580620</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.497379</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43139900,55.36779420,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 62 (286.836 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>286.835707</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.447378</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43139960,55.36779390,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 63 (290.481 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>290.481396</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.180297</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43145250,55.36778650,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 64 (294.596 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>294.596105</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.803181</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43152810,55.36777680,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 65 (301.396 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>301.396134</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>58.973959</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43165970,55.36777570,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 66 (308.488 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>308.487982</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.063748</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43178910,55.36776930,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 67 (308.649 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>308.649129</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.955712</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43180850,55.36777140,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 68 (312.434 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>312.434174</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.662562</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43189090,55.36777950,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 69 (327.983 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>327.982508</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.252175</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43212200,55.36777560,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 70 (331.484 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>331.484266</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.677015</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43220610,55.36778970,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 71 (336.833 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>336.833162</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.241870</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43229400,55.36778640,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 72 (343.155 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>343.155421</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.505645</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43243160,55.36777930,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 73 (346.080 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>346.079768</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.997535</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43249060,55.36778770,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 74 (347.814 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>347.814217</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.247480</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43251680,55.36779590,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 75 (353.803 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>353.803484</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.729223</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43263190,55.36784560,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 76 (356.796 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>356.796121</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.984124</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43268130,55.36785750,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 77 (357.408 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>357.407994</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.970093</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43269730,55.36786070,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 78 (358.259 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>358.259199</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>58.034029</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43273220,55.36786450,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 79 (363.025 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>363.025353</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.991870</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43281940,55.36787350,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 80 (367.814 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>367.814141</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>58.003680</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43292220,55.36788610,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 81 (374.953 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>374.953318</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.926388</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43308860,55.36789320,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 82 (385.868 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>385.867848</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.878011</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43330970,55.36789450,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 83 (389.453 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>389.453403</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.882959</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43334110,55.36789420,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 84 (393.536 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>393.536168</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>58.186934</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43335330,55.36789710,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 85 (399.847 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>399.847018</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>58.562927</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43335810,55.36789600,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 86 (406.620 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>406.620314</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.647955</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43337670,55.36784840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 87 (412.335 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>412.335084</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.143995</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43338080,55.36781100,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 88 (420.317 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>420.317362</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.131041</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43340420,55.36774200,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 89 (423.521 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>423.520668</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>54.053068</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43340860,55.36771420,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 90 (431.374 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>431.373824</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>52.058177</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43340100,55.36763720,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 91 (437.128 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>437.127765</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>51.051161</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43342880,55.36761190,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 92 (443.235 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>443.234551</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>50.742183</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43344680,55.36757010,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 93 (443.938 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>443.937648</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>50.638191</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43344490,55.36756570,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 94 (450.514 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>450.513803</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>49.763300</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43343520,55.36749150,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 95 (455.334 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>455.334060</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>49.770353</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43344890,55.36743030,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 96 (461.007 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>461.006799</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>49.512424</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43344340,55.36738090,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 97 (464.662 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>464.662395</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>49.031465</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43344510,55.36734510,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 98 (465.960 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>465.960288</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>48.895476</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43344730,55.36733360,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 99 (466.541 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>466.541089</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>48.718485</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43345020,55.36732250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 100 (468.665 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>468.664709</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>48.603523</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43344220,55.36730260,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 101 (472.557 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>472.557021</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>48.744672</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43338410,55.36726190,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 102 (476.643 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>476.642633</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>49.467803</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43332780,55.36723330,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 103 (477.776 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>477.776335</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>50.109878</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43329690,55.36721550,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 104 (484.806 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>484.805872</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>51.822175</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43317360,55.36714520,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 105 (490.715 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>490.715296</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>53.270377</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43309380,55.36709110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 106 (494.881 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>494.880661</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>54.359505</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43302250,55.36708540,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 107 (496.189 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>496.189100</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>54.579563</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43298930,55.36708450,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 108 (498.788 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>498.787838</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.247651</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43294190,55.36707860,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 109 (501.820 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>501.819894</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.453749</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43288400,55.36707850,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 110 (505.575 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>505.574785</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.404852</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43282560,55.36707530,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 111 (506.845 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>506.845135</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.646904</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43279700,55.36707220,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 112 (508.853 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>508.852672</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.446006</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43274100,55.36706680,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 113 (512.296 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>512.295808</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.091127</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43268990,55.36703920,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 114 (514.656 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>514.655985</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.156185</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43267650,55.36701120,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 115 (517.200 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>517.200159</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.448229</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43266860,55.36698620,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 116 (521.689 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>521.689477</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.142321</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43265930,55.36692500,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 117 (523.813 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>523.812926</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.290351</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43266110,55.36689840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 118 (524.954 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>524.954201</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.444370</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43266160,55.36688180,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 119 (531.839 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>531.838509</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.221546</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43261110,55.36680960,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 120 (532.405 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>532.405121</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.147567</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43260200,55.36680450,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 121 (532.537 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>532.537075</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.034585</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43259550,55.36679930,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 122 (534.215 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>534.214543</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.955621</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43258160,55.36678920,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 123 (534.663 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>534.662998</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.009640</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43257350,55.36678470,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 124 (535.278 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>535.277714</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.015664</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43256170,55.36678150,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 125 (536.025 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>536.025236</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.105687</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43255150,55.36677680,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 126 (537.422 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>537.422355</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.432735</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43253050,55.36676750,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 127 (538.056 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>538.055670</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.512758</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43251970,55.36676340,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 128 (538.785 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>538.784967</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.598781</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43250850,55.36676030,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 129 (539.396 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>539.396450</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.766807</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43249530,55.36675770,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 130 (540.151 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>540.151387</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.910831</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43248240,55.36675540,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 131 (540.791 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>540.791270</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.963854</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43246980,55.36675400,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 132 (541.527 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>541.526852</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.948878</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43245750,55.36675210,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 133 (547.075 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>547.074546</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.786042</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43236080,55.36675180,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 134 (548.093 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>548.092837</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.644093</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43233050,55.36675180,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 135 (549.012 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>549.012330</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.685120</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43231520,55.36675100,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 136 (551.685 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>551.685104</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.687227</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43225540,55.36674690,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 137 (552.171 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>552.171198</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.809253</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43224080,55.36674560,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 138 (553.108 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>553.108147</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>56.976278</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43222680,55.36674460,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 139 (554.614 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>554.614356</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.116363</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43217950,55.36674090,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 140 (556.707 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>556.707344</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.193439</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43213650,55.36673840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 141 (559.750 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>559.750459</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.557569</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43206770,55.36672760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 142 (562.203 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>562.203379</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>58.249667</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43201740,55.36671760,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 143 (564.484 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>564.483736</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>58.746754</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43197000,55.36671220,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 144 (566.469 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>566.468818</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.167805</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43194250,55.36670840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 145 (567.233 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>567.233021</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.380861</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43191190,55.36670540,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 146 (569.268 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>569.268318</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.637907</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43188520,55.36670470,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 147 (569.644 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>569.644092</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.744952</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43186010,55.36670290,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 148 (572.188 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>572.187614</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.078027</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43181900,55.36669840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 149 (572.387 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>572.387115</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.160055</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43180390,55.36669690,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 150 (574.176 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>574.176226</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.462119</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43176910,55.36669260,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 151 (575.837 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>575.837302</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.621178</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43173520,55.36669160,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 152 (577.375 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>577.374607</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.579235</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43170110,55.36669210,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 153 (578.878 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>578.878033</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.723288</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43167060,55.36669080,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 154 (580.411 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>580.410794</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.998339</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43164090,55.36669020,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 155 (582.685 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>582.684731</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.239390</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43161020,55.36669130,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 156 (586.241 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>586.240845</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.677555</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43152270,55.36667830,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 157 (588.441 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>588.440599</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.741601</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43150070,55.36667120,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 158 (592.900 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>592.899825</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.916751</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43141680,55.36666490,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 159 (598.241 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>598.240744</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>57.857910</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43130380,55.36669120,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 160 (602.536 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>602.535853</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.746021</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43122730,55.36670630,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 161 (603.616 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>603.616013</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>55.465042</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43121400,55.36670750,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 162 (605.664 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>605.664084</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>54.397123</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43115990,55.36671560,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 163 (614.485 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>614.484932</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>54.200911</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43132090,55.36666660,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 164 (618.594 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>618.594080</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>53.863307</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43164680,55.36670860,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 165 (622.973 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>622.972786</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>53.262114</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43174110,55.36673520,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 166 (626.256 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>626.256304</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>52.785184</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43169540,55.36674100,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 167 (629.123 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>629.123213</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>52.281152</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43171470,55.36674020,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 168 (631.843 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>631.842629</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>4.345896</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43184480,55.36676930,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 169 (635.330 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>635.329847</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>-2.714843</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43170150,55.36675450,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 170 (636.852 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>636.851650</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>-3.344965</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43122140,55.36670320,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 171 (641.917 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>641.917318</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.835864</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43074610,55.36668440,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 172 (642.295 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>642.295353</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.860897</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43072260,55.36668970,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 173 (642.906 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>642.905974</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.943088</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43060960,55.36668970,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 174 (647.007 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>647.006824</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.065129</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43055690,55.36672940,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 175 (650.958 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>650.958179</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.798068</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43055720,55.36677790,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 176 (654.726 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>654.725515</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>62.404063</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43053800,55.36680800,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 177 (662.583 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>662.583167</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>64.515953</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43052940,55.36690900,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 178 (672.587 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>672.587180</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>67.332922</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43046900,55.36701590,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 179 (673.755 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>673.755497</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>67.584909</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43046380,55.36703350,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 180 (674.108 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>674.108229</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>67.625907</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43045950,55.36704150,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 181 (678.075 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>678.074790</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>68.436888</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43043840,55.36708560,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 182 (684.760 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>684.760239</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>70.322857</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43040710,55.36715320,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 183 (686.138 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>686.137634</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>70.160852</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43040520,55.36716000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 184 (689.877 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>689.877100</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.820818</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43039530,55.36720080,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 185 (691.637 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>691.637393</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.451790</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43039340,55.36722580,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 186 (694.625 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>694.625261</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>68.702744</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43040060,55.36725310,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 187 (697.693 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>697.693091</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>68.265694</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43040860,55.36728260,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 188 (702.198 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>702.198090</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>68.295632</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43040670,55.36733520,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 189 (708.896 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>708.896164</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>67.208512</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43041130,55.36742560,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 190 (711.465 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>711.465429</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>66.387512</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43039630,55.36744580,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 191 (713.717 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>713.717190</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>65.702539</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43037110,55.36745840,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 192 (719.315 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>719.315498</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>64.734434</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43038820,55.36751980,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 193 (719.492 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>719.491807</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>64.727418</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43038770,55.36753300,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 194 (724.722 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>724.721779</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>64.313385</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43036610,55.36758880,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 195 (728.183 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>728.183148</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>64.720287</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43037900,55.36765040,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 196 (736.384 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>736.383551</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.978844</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43058830,55.36772090,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 197 (738.359 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>738.358783</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.785781</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43062180,55.36772660,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 198 (740.196 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>740.195800</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>61.277675</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43068250,55.36772860,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 199 (744.349 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>744.349158</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.679642</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43072630,55.36769590,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 200 (746.341 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>746.340846</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>58.547635</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43074190,55.36768010,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 201 (753.523 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>753.522910</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>59.598560</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43077260,55.36769860,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 202 (754.639 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>754.639189</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>60.144510</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43078890,55.36771640,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 203 (762.522 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>762.522375</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>64.816505</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43079030,55.36771830,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 204 (767.417 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>767.417028</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>67.056546</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43078930,55.36768650,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 205 (776.577 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>776.577244</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>66.524418</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43088020,55.36766560,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 206 (782.548 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>782.547560</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>65.705227</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43096060,55.36770980,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 207 (786.703 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>786.703192</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>65.493113</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43102270,55.36771710,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 208 (797.519 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>797.519170</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>67.373739</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43116680,55.36782130,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 209 (801.600 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>801.599927</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>67.938578</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43124100,55.36784950,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 210 (810.437 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>810.436710</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.357541</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43129640,55.36780330,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 211 (814.870 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>814.870365</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.384462</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43132180,55.36783230,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 212 (823.836 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>823.836231</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.732287</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134550,55.36794090,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 213 (825.854 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>825.853848</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.813288</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134530,55.36794050,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 214 (826.567 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>826.566568</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.879289</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134460,55.36794020,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 215 (828.878 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>828.877568</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.886283</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134510,55.36794480,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 216 (831.276 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>831.276465</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.806264</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134560,55.36795870,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 217 (831.987 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>831.987039</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.763255</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134620,55.36796540,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 218 (835.986 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>835.986267</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.498191</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134730,55.36801540,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 219 (839.627 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>839.627162</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.417129</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134930,55.36806250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 220 (844.789 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>844.789082</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.829020</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134280,55.36815860,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 221 (847.075 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>847.075439</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>70.050950</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43134970,55.36820540,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 222 (851.050 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>851.049839</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>70.052888</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43133060,55.36828120,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 223 (857.799 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>857.798886</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.994763</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43130280,55.36841960,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 224 (858.934 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>858.934464</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.988754</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43129770,55.36843320,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 225 (863.420 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>863.419708</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>70.001649</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43127640,55.36854660,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 226 (867.033 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>867.033440</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>70.038518</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43126890,55.36866160,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 227 (875.607 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>875.607074</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.568362</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43126820,55.36878810,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 228 (877.781 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>877.781108</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.569307</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43129110,55.36880070,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 229 (879.520 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>879.520165</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.545241</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43132330,55.36881000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 230 (880.744 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>880.743656</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.482215</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43133590,55.36881330,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 231 (883.928 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>883.927988</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.435078</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43140110,55.36883450,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 232 (887.208 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>887.208283</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.387031</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43142750,55.36883650,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 233 (889.817 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>889.817036</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.374008</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43143950,55.36883810,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 234 (895.907 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>895.906616</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.487941</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43146670,55.36885500,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 235 (913.237 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>913.237495</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.991110</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43175980,55.36912230,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 236 (914.773 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>914.772694</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.923981</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43179200,55.36918130,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 237 (919.598 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>919.598083</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.432734</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43183300,55.36932350,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 238 (920.218 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>920.217723</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.295491</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43197450,55.36932580,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 239 (927.104 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>927.104419</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.641262</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43204540,55.36941290,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 240 (930.716 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>930.716423</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.603185</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43201470,55.36951600,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Point 241 (933.872 s)</name>
+      <ExtendedData>
+        <Data name="elapsed_time_s">
+          <value>933.872491</value>
+        </Data>
+        <Data name="heading_deg">
+          <value>69.478325</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>10.43188040,55.36958580,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

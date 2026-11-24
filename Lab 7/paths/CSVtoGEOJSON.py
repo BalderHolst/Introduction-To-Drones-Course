@@ -1,13 +1,13 @@
 from pathlib import Path
 import json
 
-path = Path("paths/data/global_pos_cleaned.csv")
+path = Path("data/global_pos_simplified.csv")
 
 coordinates = []
 
 for line in path.read_text().splitlines():
-    [_, lat, lon, _] = line.strip().split(',')
-    coordinates.append([lat, lon])
+    [_, lon, lat, _] = line.strip().split(',')
+    coordinates.append([float(lat), float(lon)])
 
 data = {
     "type": "FeatureCollection",

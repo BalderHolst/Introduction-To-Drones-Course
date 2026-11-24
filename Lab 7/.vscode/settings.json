@@ -1,0 +1,33 @@
+{
+    "ROS2.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/spkki/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/spkki/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages",
+        "/home/spkki/turtlebot3_ws/build/turtlebot3_example",
+        "/home/spkki/turtlebot3_ws/install/turtlebot3_example/lib/python3.12/site-packages",
+        "/home/spkki/turtlebot3_ws/install/turtlebot3_msgs/lib/python3.12/site-packages",
+        "/home/spkki/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib/python3.12/site-packages",
+        "/home/spkki/turtlebot3_ws/install/dynamixel_sdk/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_sim_vendor/lib/python",
+        "/opt/ros/jazzy/opt/sdformat_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_transport_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/spkki/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/spkki/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.12/site-packages",
+        "/home/spkki/turtlebot3_ws/build/turtlebot3_example",
+        "/home/spkki/turtlebot3_ws/install/turtlebot3_example/lib/python3.12/site-packages",
+        "/home/spkki/turtlebot3_ws/install/turtlebot3_msgs/lib/python3.12/site-packages",
+        "/home/spkki/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib/python3.12/site-packages",
+        "/home/spkki/turtlebot3_ws/install/dynamixel_sdk/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/opt/gz_sim_vendor/lib/python",
+        "/opt/ros/jazzy/opt/sdformat_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_transport_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_msgs_vendor/lib/python",
+        "/opt/ros/jazzy/opt/gz_math_vendor/lib/python",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}

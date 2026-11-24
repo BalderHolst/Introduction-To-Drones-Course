@@ -17,4 +17,12 @@ simplified_points = rdp(points, epsilon=0.0001)
 
 simplified_rows = rows[np.isin(points, simplified_points).all(axis=1)]
 
+np.savetxt(
+    output_file,
+    simplified_rows,
+    delimiter=",",
+    fmt="%.15g",
+)
+
+
 

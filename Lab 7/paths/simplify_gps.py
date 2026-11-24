@@ -17,8 +17,11 @@ longitudes = rows[:, 2]
 points = np.column_stack((longitudes, latitudes))
 simplifier = VWSimplifier(points)
 
-threshold = np.quantile(simplifier.thresholds, 0.90)
-keep = simplifier.thresholds >= threshold
+target_points = 50
+
+important_indices = np.argsort(-simplifier.thresholds, kind="stable",)[:target_points]
+keep = np.zeros(len(rows), dtype=bool)
+keep[np.sort(important_indices)] = True
 
 simplified_rows = rows[keep]
 

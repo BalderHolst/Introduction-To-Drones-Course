@@ -3,21 +3,17 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 from great_circle import great_circle
+import VW
 
 class PathSimplifier:
     def __init__(self, input_path) -> None:
 
-        csv_lines = Path(input_path).read_text().splitlines()
+        rows = np.loadtxt(input_path, delimiter=",")
 
-        points = len(csv_lines)
+        lats = rows[:, 1]
+        lons = rows[:, 2]
 
-        lats = np.zeros(points)
-        lons = np.zeros(points)
-
-        for i, line in enumerate(csv_lines):
-            [_, lat, lon, _] = line.strip().split(',')
-            lats[i] = float(lat)
-            lons[i] = float(lon)
+        points = len(lats)
 
         self.lat = lats
         self.lon = lons
@@ -50,12 +46,28 @@ class PathSimplifier:
 
         return (lat, lon)
 
+    def visvalingam_whyatt(self, max_dist: float):
+        points = np.column_stack((self.lon, self.lat))
+        simplifier = VW.VWSimplifier(points)
+
+        threshold = np.quantile(simplifier.thresholds, max_dist)
+        keep = simplifier.thresholds >= threshold
+
+        simplified_rows = points[keep]
+
+        lat = points[:, 1]
+        lon = points[:, 0]
+
+        return (lat, lon)
+
 
 
 
 if __name__ == "__main__":
     p = PathSimplifier("./data/global_pos_cleaned.csv")
     print(np.sum(p.distances))
-    plt.plot(*p.latlon())
-    plt.plot(*p.simple_smooth(20))
+    plt.plot(*p.latlon(), label="Original")
+    # plt.plot(*p.simple_smooth(20), label="Simple Smooth")
+    plt.plot(*p.visvalingam_whyatt(0.5), label="Visvalingam-Whyatt")
+    plt.legend()
     plt.show()
